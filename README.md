@@ -13,7 +13,8 @@
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://jst-manu.github.io/profile-card/](https://jst-manu.github.io/profile-card/)
-
+- 👨‍ Projects - Notes-App-https://jst-manu.github.io/Notes-APP/<br>
+                LoginPage-https://jst-manu.github.io/Login-form/
 - Hobbies - * Coding <br>* ReadingWatching <br>* tutorials
 
 - 💬 Ask me about **CSS,HTML**
