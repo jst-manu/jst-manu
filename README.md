@@ -2,7 +2,7 @@
  
 <h1 align="center">Hi 👋, I'm MANOJ S</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="Coding" width="300" src="https://hemalcorporation.com/wp-content/uploads/2020/02/web-development.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jst-manu&label=Profile%20views&color=0e75b6&style=flat" alt="jst-manu" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jst-manu.github.io/profile-card/](https://jst-manu.github.io/profile-card/)
 
-- Hobbies [Coding ,Reading,Watching tutorials](Coding ,Reading,Watching tutorials)
+- Hobbies - * Coding <br>* ReadingWatching <br>* tutorials
 
 - 💬 Ask me about **CSS,HTML**
 
