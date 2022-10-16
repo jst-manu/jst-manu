@@ -1,11 +1,12 @@
 [![MasterHead](https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966)]
+ 
 <h1 align="center">Hi 👋, I'm MANOJ S</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="Coding" width="300" src="https://hemalcorporation.com/wp-content/uploads/2020/02/web-development.gif">
+<img align="right" alt="Coding" width="400" src="https://hemalcorporation.com/wp-content/uploads/2020/02/web-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jst-manu&label=Profile%20views&color=0e75b6&style=flat" alt="jst-manu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/manoj" target="blank"><img src="https://img.shields.io/twitter/follow/manoj?logo=twitter&style=for-the-badge" alt="manoj" /></a> </p>
+<p align="left"> <a href="https://twitter.com/manojma69783207" target="blank"><img src="https://img.shields.io/twitter/follow/manojma69783207?logo=twitter&style=for-the-badge" alt="manojma69783207" /></a> </p>
 
 - 🔭 I’m currently working on [Login System](https://jst-manu.github.io/Login-form/)
 
@@ -21,11 +22,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/manoj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manoj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manoj s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manoj s" height="30" width="40" /></a>
-<a href="https://fb.com/manoj manu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manoj manu" height="30" width="40" /></a>
+<a href="https://twitter.com/manojma69783207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manojma69783207" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/manoj-s-74b818239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/manoj-s-74b818239" height="30" width="40" /></a>
 <a href="https://instagram.com/__jst_manu__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__jst_manu__" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@manojsmanu666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@manojsmanu666" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/manojsmanu666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/manojsmanu666" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,3 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jst-manu&show_icons=true&locale=en" alt="jst-manu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jst-manu&" alt="jst-manu" /></p>
+ 
