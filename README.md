@@ -12,10 +12,11 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://jst-manu.github.io/profile-card/](https://jst-manu.github.io/profile-card/)
+- 👨‍💻 All of my projects are available at [https://jst-manu.github.io/Portfolio/]
 - 👨‍ Projects - Notes-App-https://jst-manu.github.io/Notes-APP/<br>
                 LoginPage-https://jst-manu.github.io/Login-form/
-- Hobbies - * Coding <br>* ReadingWatching <br>* tutorials
+                Weather App-https://jst-manu.github.io/Weather-App/
+- Hobbies - <br>* Coding <br>* ReadingWatching <br>* tutorials
 
 - 💬 Ask me about **CSS,HTML**
 
