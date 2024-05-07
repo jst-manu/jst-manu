@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://jst-manu.github.io/Portfolio/]
+- 👨‍💻 All of my projects are available at [https://github.com/jst-manu/Profile_Card.git]
 - 👨‍ Projects -
                 LoginPage-https://jst-manu.github.io/Login-form/<br>
                 Weather App-https://jst-manu.github.io/Weather-App/
