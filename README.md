@@ -1,6 +1,10 @@
 <p align="center"><img src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/loficity.gif" alt="itsmedeepu" width="800px"  height="300px"/></p>
 <h1 align="center">Hi 👋, I'm MANOJ S</h1>
-🔭 I’m currently working on node.js<br><br>🌱 I’m currently learning react.js<br><br>👨‍💻 All of my projects are available at https://jst-manu.github.io/Profile_Card/<br><br>Hobbies - *Coding *Reading *Learning new things<br>📫 How to reach me manojs666manu@gmail.com
+🔭 I’m currently working on node.js<br>
+<br>🌱I’m currently learning react.js<br>
+<br>👨‍💻 All of my projects are available at https://jst-manu.github.io/Profile_Card/<br>
+<br>Hobbies - *Coding *Reading *Learning new things<br>
+📫 How to reach me manojs666manu@gmail.com
 [![](https://visitcount.itsvg.in/api?id=jst-manu&icon=5&color=1)](https://visitcount.itsvg.in) 
 
 ## 🌐 Socials:
