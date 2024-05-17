@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/loficity.gif" alt="itsmedeepu" width="800px"  height="300px"/></p>
 <h1 align="center">Hi 👋, I'm MANOJ S</h1>
-<img align="right" alt="Coding" width="300" src="https://dribbble.com/shots/4948736-UI-Developer.gif">
+<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 🔭 I’m currently working on node.js<br>
 <br>🌱I’m currently learning react.js<br>
 <br>👨‍💻 All of my projects are available at https://jst-manu.github.io/Profile_Card/<br>
