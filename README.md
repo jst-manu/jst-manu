@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm MANOJ S</h1>
 🔭 I’m currently working on node.js<br><br>🌱 I’m currently learning react.js<br><br>👨‍💻 All of my projects are available at https://jst-manu.github.io/Profile_Card/<br><br>Hobbies - *Coding *Reading *Learning new things<br>📫 How to reach me manojs666manu@gmail.com
 
-
+[![](https://visitcount.itsvg.in/api?id=jst-manu&icon=5&color=1)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/icy__manu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-s-74b818239/) 
 
@@ -26,6 +26,6 @@
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jst-manu&icon=5&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
